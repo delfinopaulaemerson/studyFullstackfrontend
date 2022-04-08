@@ -28,7 +28,6 @@ export class AppComponent implements AfterViewInit {
           $("body").toggleClass("sb-sidenav-toggled");
       });
   })(jQuery);
-
   }
 
 }
